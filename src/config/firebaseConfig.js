@@ -5,7 +5,7 @@ require("firebase/firestore");
 require('firebase/storage')
 
 const firebaseConfig = {
-  apiKey: "AIzaSyD1tNJ6WwC-03K5DJZg_q82Mzls_9u2-bY",
+d
   authDomain: "studentchecking.firebaseapp.com",
   databaseURL: "https://studentchecking.firebaseio.com",
   projectId: "studentchecking",
